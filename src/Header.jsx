@@ -1,7 +1,8 @@
 function Header() {
     return(
         <header>
-            <h1>yo whats up dudes</h1>
+            <h1>YO</h1>
+            <h1>UP DUDES</h1>
             <nav>
                 <ul>
                     <li><a href="#">HOME</a></li>
